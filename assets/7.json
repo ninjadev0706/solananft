@@ -1,16 +1,32 @@
 {
-  "Title": "07@30",
+  "name": "08@30",
   "Short description": "NFTC by Internet Nation",
-  "Description": "Visual code for creating a world changing community of 20 million people  www.internetnation.org",
+  "description": "Visual code for creating a world changing community of 20 million people  www.internetnation.org",
   "Royalties from secondary sales": 0,
   "External URL": "www.internetnation.org",
   "Tags": "Tags",
+"image": "",
   "License": "Reproduction/Commercial exploitation",
   "Collection": "",
-  "Traits": {
-    "1": "Don't Lie",
-    "2": "Don't Steal",
-    "3": "Don't Demean",
-    "4": "Don't Limit The Freedom"
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "Don't Lie"
+    },
+    {
+      "trait_type": "2",
+      "value": "Don't Steal"
+    },
+    {
+      "trait_type": "3",
+      "value": "Don't Demean"
+    },
+    {
+      "trait_type": "4",
+      "value": "Don't Limit The Freedom"
+    }
+  ],
+  "properties": {
+    "files": []
   }
 }
